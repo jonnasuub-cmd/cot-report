@@ -1,0 +1,25 @@
+Scored 1488 walk-forward COT observations.
+S&P 500: latest 2026-09-22 signal 2026-09-25 score -2.50 (Caution); observations 435
+NASDAQ-100: latest 2026-09-22 signal 2026-09-25 score +0.00 (Mixed); observations 457
+Russell 2000: latest 2026-09-22 signal 2026-09-25 score +0.00 (Mixed); observations 139
+Dow Jones: latest 2026-09-22 signal 2026-09-25 score +0.00 (Mixed); observations 457
+
+Regime bucket summary, 4w horizon:
+market  bucket  observations  avg_return_pct  hit_rate_pct  diff_vs_unconditional_pct  welch_t_stat_vs_rest
+ sp500   Mixed           262        1.290061     67.557252                   0.174251              0.872933
+ sp500 Caution           158        0.477450     69.620253                  -0.638360             -1.966859
+ sp500 Risk-On            10        6.636530     90.000000                   5.520720              4.659156
+    nq   Mixed           340        1.701708     65.588235                   0.107049              0.670024
+    nq Risk-On            88        1.623181     63.636364                   0.028522              0.051553
+    nq Caution            24       -0.026444     58.333333                  -1.621103             -1.296478
+   rty   Mixed           134        1.438555     63.432836                   0.000000                   NaN
+   dow   Mixed           452        0.766342     64.601770                   0.000000                   NaN
+
+Score/return correlation summary, 4w horizon:
+market  observations  score_return_corr  score_return_hac_p_value  risk_on_minus_caution_avg_return_pct  risk_on_minus_caution_hac_p_value  drift_adjusted_accuracy_pct evidence_grade
+ sp500           430           0.117738                  0.088728                              6.159080                           0.000000                    50.485437   Insufficient
+    nq           452           0.048535                  0.398144                              1.649625                           0.400132                    57.191781        Unclear
+   rty           134                NaN                       NaN                                   NaN                                NaN                          NaN   Insufficient
+   dow           452                NaN                       NaN                                   NaN                                NaN                          NaN   Insufficient
+
+Saved outputs to /home/runner/work/cot-report/cot-report/analysis/cot_regime_backtest_output
