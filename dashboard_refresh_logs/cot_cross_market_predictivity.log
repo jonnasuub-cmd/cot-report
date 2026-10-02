@@ -1,0 +1,50 @@
+Saved /home/runner/work/cot-report/cot-report/analysis/cot_cross_market_predictivity_output/risk_exposure_predictivity_summary.csv
+Saved /home/runner/work/cot-report/cot-report/analysis/cot_cross_market_predictivity_output/latest_risk_exposure_signals.csv
+Saved /home/runner/work/cot-report/cot-report/analysis/cot_cross_market_predictivity_output/risk_exposure_predictivity_top_findings.csv
+Saved /home/runner/work/cot-report/cot-report/analysis/cot_cross_market_predictivity_output/net_position_side_predictivity.csv
+Saved /home/runner/work/cot-report/cot-report/analysis/cot_cross_market_predictivity_output/net_position_combined_vs_single_summary.csv
+Saved /home/runner/work/cot-report/cot-report/analysis/cot_cross_market_predictivity_output/net_position_combined_vs_single_top_findings.csv
+
+dataset            player    signal     target horizon   n  spearman_r  hac_t  hac_p  bucket_top_avg  bucket_bottom_avg  bucket_top_minus_bottom  evidence
+    tff Other Reportables   flow4_z NASDAQ-100     13w 471      -0.154 -3.262  0.001           3.043              6.131                   -3.088 supported
+    tff Other Reportables   flow4_z    S&P 500     13w 471      -0.143 -3.217  0.001           1.834              4.320                   -2.486 supported
+    tff Other Reportables trend13_z NASDAQ-100      4w 471      -0.185 -3.017  0.003           0.103              2.569                   -2.466 supported
+ legacy     Noncommercial     net_z NASDAQ-100     26w 462      -0.329 -2.034  0.042           2.566             13.650                  -11.083 supported
+ legacy        Commercial     net_z NASDAQ-100     26w 462       0.312  2.020  0.043          14.172              3.382                   10.790 supported
+    tff    Non-reportable   flow4_z NASDAQ-100     13w 471      -0.098 -2.000  0.045           3.788              6.579                   -2.790 supported
+ legacy     Nonreportable   flow4_z NASDAQ-100     13w 471      -0.098 -2.000  0.045           3.788              6.579                   -2.790 supported
+    tff    Non-reportable trend13_z NASDAQ-100     13w 462      -0.166 -1.967  0.049           4.134              6.817                   -2.683 supported
+ legacy     Nonreportable trend13_z NASDAQ-100     13w 462      -0.166 -1.967  0.049           4.134              6.817                   -2.683 supported
+    tff Other Reportables trend13_z    S&P 500      4w 471      -0.160 -2.603  0.009          -0.186              1.764                   -1.950 tentative
+    tff    Non-reportable trend13_z NASDAQ-100      4w 471      -0.155 -2.446  0.014           1.501              2.844                   -1.344 tentative
+ legacy     Nonreportable trend13_z NASDAQ-100      4w 471      -0.155 -2.446  0.014           1.501              2.844                   -1.344 tentative
+ legacy        Commercial     net_z NASDAQ-100      4w 484       0.132  2.212  0.027           1.937              0.290                    1.648 tentative
+ legacy     Noncommercial     net_z NASDAQ-100      4w 484      -0.109 -2.139  0.032           0.637              2.191                   -1.555 tentative
+    tff   Leveraged Funds   flow4_z    S&P 500     26w 458       0.099  2.045  0.041           8.121              6.922                    1.199 tentative
+    tff Other Reportables   flow1_z NASDAQ-100     13w 474      -0.065 -2.003  0.045           5.038              6.080                   -1.042 tentative
+ legacy     Noncommercial     net_z NASDAQ-100     13w 475      -0.181 -1.917  0.055           2.061              6.489                   -4.428 tentative
+ legacy        Commercial     net_z NASDAQ-100     13w 475       0.234  1.913  0.056           6.749              0.781                    5.968 tentative
+ legacy     Noncommercial     net_z    S&P 500     13w 475      -0.145 -1.811  0.070           1.617              4.140                   -2.523 tentative
+ legacy     Noncommercial     net_z    S&P 500     26w 462      -0.303 -1.773  0.076           2.080              8.967                   -6.887 tentative
+
+dataset          player     target horizon   winner  combined_abs_side_edge_pp best_single_source_label  best_single_abs_side_edge_pp  combined_minus_best_single_abs_edge_pp  combined_hac_p  best_single_hac_p
+    tff Leveraged Funds NASDAQ-100     26w combined                      7.971             S&P 500 only                         7.647                                   0.324           0.381              0.335
+    tff Leveraged Funds    S&P 500     26w combined                      5.207             S&P 500 only                         4.080                                   1.126           0.378              0.466
+    tff Leveraged Funds NASDAQ-100     13w combined                      4.936             S&P 500 only                         4.018                                   0.917           0.326              0.501
+    tff Leveraged Funds    S&P 500     13w combined                      2.565             S&P 500 only                         1.712                                   0.853           0.415              0.666
+    tff Leveraged Funds NASDAQ-100      4w combined                      2.173       VIX only, inverted                         0.938                                   1.235           0.175              0.522
+ legacy   Noncommercial NASDAQ-100      4w combined                      1.023             S&P 500 only                         0.760                                   0.263           0.147              0.273
+    tff Leveraged Funds NASDAQ-100      1w combined                      0.684          NASDAQ-100 only                         0.097                                   0.587           0.250              0.720
+    tff Leveraged Funds    S&P 500      1w combined                      0.467          NASDAQ-100 only                         0.088                                   0.379           0.385              0.667
+ legacy      Commercial NASDAQ-100     26w   single                      5.614             S&P 500 only                         6.979                                  -1.365           0.071              0.017
+ legacy   Noncommercial NASDAQ-100     26w   single                      5.588             S&P 500 only                         6.423                                  -0.835           0.043              0.029
+ legacy   Noncommercial    S&P 500     26w   single                      4.357             S&P 500 only                         5.282                                  -0.925           0.020              0.004
+ legacy      Commercial    S&P 500     26w   single                      3.926             S&P 500 only                         5.280                                  -1.353           0.051              0.009
+ legacy   Nonreportable    S&P 500     26w   single                      0.917          NASDAQ-100 only                         4.141                                  -3.224           0.723              0.009
+    tff  Non-reportable    S&P 500     26w   single                      0.917          NASDAQ-100 only                         4.141                                  -3.224           0.723              0.009
+ legacy   Nonreportable NASDAQ-100     26w   single                      2.162             S&P 500 only                         4.095                                  -1.933           0.550              0.231
+    tff  Non-reportable NASDAQ-100     26w   single                      2.162             S&P 500 only                         4.095                                  -1.933           0.550              0.231
+ legacy      Commercial NASDAQ-100     13w   single                      2.862       VIX only, inverted                         3.617                                  -0.755           0.194              0.049
+ legacy   Noncommercial NASDAQ-100     13w   single                      2.199       VIX only, inverted                         3.383                                  -1.184           0.245              0.063
+ legacy      Commercial    S&P 500     13w   single                      1.831             S&P 500 only                         2.653                                  -0.823           0.186              0.049
+ legacy   Nonreportable NASDAQ-100     13w   single                      1.394             S&P 500 only                         2.599                                  -1.204           0.553              0.250

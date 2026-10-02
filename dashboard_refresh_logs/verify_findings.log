@@ -1,0 +1,4 @@
+nq: checked through 2026-09-29 (561 rows)
+sp500: checked through 2026-09-29 (539 rows)
+
+Verification passed: research_findings.json matches current exact consolidated outputs.
