@@ -1,0 +1,481 @@
+category,relationship,position_metric,pearson_r,observations,return_metric
+noncommercial,weekly change in noncommercial net/OI pct vs weekly price return,noncommercial_net_oi_pct_change,0.4212039105406735,562,
+noncommercial,weekly change in noncommercial net/OI pct vs next monday close return,noncommercial_net_oi_pct_change,0.007718025198124884,561,next_week_monday_return
+noncommercial,weekly change in noncommercial net/OI pct vs next monday single-day return,noncommercial_net_oi_pct_change,0.007718025198124884,561,next_week_monday_daily_return
+noncommercial,weekly change in noncommercial net/OI pct vs next tuesday close return,noncommercial_net_oi_pct_change,-0.02475561268459663,561,next_week_tuesday_return
+noncommercial,weekly change in noncommercial net/OI pct vs next tuesday single-day return,noncommercial_net_oi_pct_change,-0.07885094709844337,561,next_week_tuesday_daily_return
+noncommercial,weekly change in noncommercial net/OI pct vs next wednesday close return,noncommercial_net_oi_pct_change,-0.038845885616249305,561,next_week_wednesday_return
+noncommercial,weekly change in noncommercial net/OI pct vs next wednesday single-day return,noncommercial_net_oi_pct_change,-0.04417370442385866,561,next_week_wednesday_daily_return
+noncommercial,weekly change in noncommercial net/OI pct vs next thursday close return,noncommercial_net_oi_pct_change,-0.011074481696943873,561,next_week_thursday_return
+noncommercial,weekly change in noncommercial net/OI pct vs next thursday single-day return,noncommercial_net_oi_pct_change,0.06054498214736137,561,next_week_thursday_daily_return
+noncommercial,weekly change in noncommercial net/OI pct vs next friday close return,noncommercial_net_oi_pct_change,-0.03366953152496559,561,next_week_friday_return
+noncommercial,weekly change in noncommercial net/OI pct vs next friday single-day return,noncommercial_net_oi_pct_change,-0.05558711811094395,561,next_week_friday_daily_return
+noncommercial,weekly change in noncommercial net/OI pct vs next week Monday-Friday return,noncommercial_net_oi_pct_change,-0.057941739242985985,561,next_week_mon_fri_return
+noncommercial,weekly change in noncommercial net contracts vs weekly price return,noncommercial_net_change,0.5459872137502704,562,
+noncommercial,weekly change in noncommercial net contracts vs next monday close return,noncommercial_net_change,0.001285643064985446,561,next_week_monday_return
+noncommercial,weekly change in noncommercial net contracts vs next monday single-day return,noncommercial_net_change,0.001285643064985446,561,next_week_monday_daily_return
+noncommercial,weekly change in noncommercial net contracts vs next tuesday close return,noncommercial_net_change,-0.037476965669076545,561,next_week_tuesday_return
+noncommercial,weekly change in noncommercial net contracts vs next tuesday single-day return,noncommercial_net_change,-0.095592579949986,561,next_week_tuesday_daily_return
+noncommercial,weekly change in noncommercial net contracts vs next wednesday close return,noncommercial_net_change,-0.04729465335480094,561,next_week_wednesday_return
+noncommercial,weekly change in noncommercial net contracts vs next wednesday single-day return,noncommercial_net_change,-0.03355787748172447,561,next_week_wednesday_daily_return
+noncommercial,weekly change in noncommercial net contracts vs next thursday close return,noncommercial_net_change,-0.034260820169243485,561,next_week_thursday_return
+noncommercial,weekly change in noncommercial net contracts vs next thursday single-day return,noncommercial_net_change,0.022009998238720043,561,next_week_thursday_daily_return
+noncommercial,weekly change in noncommercial net contracts vs next friday close return,noncommercial_net_change,-0.05074289860023447,561,next_week_friday_return
+noncommercial,weekly change in noncommercial net contracts vs next friday single-day return,noncommercial_net_change,-0.04277020150071377,561,next_week_friday_daily_return
+noncommercial,weekly change in noncommercial net contracts vs next week Monday-Friday return,noncommercial_net_change,-0.07477420153866725,561,next_week_mon_fri_return
+noncommercial,weekly change in noncommercial long/OI pct vs weekly price return,noncommercial_long_oi_pct_change,0.32570413669925,562,
+noncommercial,weekly change in noncommercial long/OI pct vs next monday close return,noncommercial_long_oi_pct_change,-0.025002259621404965,561,next_week_monday_return
+noncommercial,weekly change in noncommercial long/OI pct vs next monday single-day return,noncommercial_long_oi_pct_change,-0.025002259621404965,561,next_week_monday_daily_return
+noncommercial,weekly change in noncommercial long/OI pct vs next tuesday close return,noncommercial_long_oi_pct_change,-0.058877300625565406,561,next_week_tuesday_return
+noncommercial,weekly change in noncommercial long/OI pct vs next tuesday single-day return,noncommercial_long_oi_pct_change,-0.08848760431455294,561,next_week_tuesday_daily_return
+noncommercial,weekly change in noncommercial long/OI pct vs next wednesday close return,noncommercial_long_oi_pct_change,-0.06414454814073411,561,next_week_wednesday_return
+noncommercial,weekly change in noncommercial long/OI pct vs next wednesday single-day return,noncommercial_long_oi_pct_change,-0.02621245315261512,561,next_week_wednesday_daily_return
+noncommercial,weekly change in noncommercial long/OI pct vs next thursday close return,noncommercial_long_oi_pct_change,-0.04830144874860125,561,next_week_thursday_return
+noncommercial,weekly change in noncommercial long/OI pct vs next thursday single-day return,noncommercial_long_oi_pct_change,0.025804071250212623,561,next_week_thursday_daily_return
+noncommercial,weekly change in noncommercial long/OI pct vs next friday close return,noncommercial_long_oi_pct_change,-0.06080746144637412,561,next_week_friday_return
+noncommercial,weekly change in noncommercial long/OI pct vs next friday single-day return,noncommercial_long_oi_pct_change,-0.03236735976038691,561,next_week_friday_daily_return
+noncommercial,weekly change in noncommercial long/OI pct vs next week Monday-Friday return,noncommercial_long_oi_pct_change,-0.06003738966576165,561,next_week_mon_fri_return
+noncommercial,weekly change in noncommercial short/OI pct vs weekly price return,noncommercial_short_oi_pct_change,-0.33293137820631385,562,
+noncommercial,weekly change in noncommercial short/OI pct vs next monday close return,noncommercial_short_oi_pct_change,-0.04202486529185572,561,next_week_monday_return
+noncommercial,weekly change in noncommercial short/OI pct vs next monday single-day return,noncommercial_short_oi_pct_change,-0.04202486529185572,561,next_week_monday_daily_return
+noncommercial,weekly change in noncommercial short/OI pct vs next tuesday close return,noncommercial_short_oi_pct_change,-0.026522862527927293,561,next_week_tuesday_return
+noncommercial,weekly change in noncommercial short/OI pct vs next tuesday single-day return,noncommercial_short_oi_pct_change,0.030410240795870007,561,next_week_tuesday_daily_return
+noncommercial,weekly change in noncommercial short/OI pct vs next wednesday close return,noncommercial_short_oi_pct_change,-0.008856893237123208,561,next_week_wednesday_return
+noncommercial,weekly change in noncommercial short/OI pct vs next wednesday single-day return,noncommercial_short_oi_pct_change,0.04413282953958403,561,next_week_wednesday_daily_return
+noncommercial,weekly change in noncommercial short/OI pct vs next thursday close return,noncommercial_short_oi_pct_change,-0.037340694074150874,561,next_week_thursday_return
+noncommercial,weekly change in noncommercial short/OI pct vs next thursday single-day return,noncommercial_short_oi_pct_change,-0.07223122853730134,561,next_week_thursday_daily_return
+noncommercial,weekly change in noncommercial short/OI pct vs next friday close return,noncommercial_short_oi_pct_change,-0.013720530153547296,561,next_week_friday_return
+noncommercial,weekly change in noncommercial short/OI pct vs next friday single-day return,noncommercial_short_oi_pct_change,0.05625225234698704,561,next_week_friday_daily_return
+noncommercial,weekly change in noncommercial short/OI pct vs next week Monday-Friday return,noncommercial_short_oi_pct_change,0.028129346189390246,561,next_week_mon_fri_return
+noncommercial,noncommercial net/OI pct vs next monday close return,noncommercial_net_oi_pct,-0.019136990627035017,562,next_week_monday_return
+noncommercial,noncommercial net contracts vs next monday close return,noncommercial_net,-0.02841847357311635,562,next_week_monday_return
+noncommercial,noncommercial long/OI pct vs next monday close return,noncommercial_long_oi_pct,-0.02697177224683896,562,next_week_monday_return
+noncommercial,noncommercial short/OI pct vs next monday close return,noncommercial_short_oi_pct,0.008063463052580768,562,next_week_monday_return
+noncommercial,noncommercial net/OI pct vs next monday single-day return,noncommercial_net_oi_pct,-0.019136990627035017,562,next_week_monday_daily_return
+noncommercial,noncommercial net contracts vs next monday single-day return,noncommercial_net,-0.02841847357311635,562,next_week_monday_daily_return
+noncommercial,noncommercial long/OI pct vs next monday single-day return,noncommercial_long_oi_pct,-0.02697177224683896,562,next_week_monday_daily_return
+noncommercial,noncommercial short/OI pct vs next monday single-day return,noncommercial_short_oi_pct,0.008063463052580768,562,next_week_monday_daily_return
+noncommercial,noncommercial net/OI pct vs next tuesday close return,noncommercial_net_oi_pct,-0.02120923560189542,562,next_week_tuesday_return
+noncommercial,noncommercial net contracts vs next tuesday close return,noncommercial_net,-0.02458400655220641,562,next_week_tuesday_return
+noncommercial,noncommercial long/OI pct vs next tuesday close return,noncommercial_long_oi_pct,-0.031216344743998512,562,next_week_tuesday_return
+noncommercial,noncommercial short/OI pct vs next tuesday close return,noncommercial_short_oi_pct,0.0077218742322034415,562,next_week_tuesday_return
+noncommercial,noncommercial net/OI pct vs next tuesday single-day return,noncommercial_net_oi_pct,-0.007671706519822053,562,next_week_tuesday_daily_return
+noncommercial,noncommercial net contracts vs next tuesday single-day return,noncommercial_net,0.005713717325295754,562,next_week_tuesday_daily_return
+noncommercial,noncommercial long/OI pct vs next tuesday single-day return,noncommercial_long_oi_pct,-0.015600717951160623,562,next_week_tuesday_daily_return
+noncommercial,noncommercial short/OI pct vs next tuesday single-day return,noncommercial_short_oi_pct,-0.001160728913843457,562,next_week_tuesday_daily_return
+noncommercial,noncommercial net/OI pct vs next wednesday close return,noncommercial_net_oi_pct,-0.0200408880390869,562,next_week_wednesday_return
+noncommercial,noncommercial net contracts vs next wednesday close return,noncommercial_net,-0.03212734741772995,562,next_week_wednesday_return
+noncommercial,noncommercial long/OI pct vs next wednesday close return,noncommercial_long_oi_pct,-0.032307239194456445,562,next_week_wednesday_return
+noncommercial,noncommercial short/OI pct vs next wednesday close return,noncommercial_short_oi_pct,0.00471781494462003,562,next_week_wednesday_return
+noncommercial,noncommercial net/OI pct vs next wednesday single-day return,noncommercial_net_oi_pct,-0.002530977507899889,562,next_week_wednesday_daily_return
+noncommercial,noncommercial net contracts vs next wednesday single-day return,noncommercial_net,-0.025643090014737868,562,next_week_wednesday_daily_return
+noncommercial,noncommercial long/OI pct vs next wednesday single-day return,noncommercial_long_oi_pct,-0.01074380848501091,562,next_week_wednesday_daily_return
+noncommercial,noncommercial short/OI pct vs next wednesday single-day return,noncommercial_short_oi_pct,-0.005518256081580023,562,next_week_wednesday_daily_return
+noncommercial,noncommercial net/OI pct vs next thursday close return,noncommercial_net_oi_pct,-0.02116055099634528,562,next_week_thursday_return
+noncommercial,noncommercial net contracts vs next thursday close return,noncommercial_net,-0.028468760185219395,562,next_week_thursday_return
+noncommercial,noncommercial long/OI pct vs next thursday close return,noncommercial_long_oi_pct,-0.02926420529894538,562,next_week_thursday_return
+noncommercial,noncommercial short/OI pct vs next thursday close return,noncommercial_short_oi_pct,0.00942952789718238,562,next_week_thursday_return
+noncommercial,noncommercial net/OI pct vs next thursday single-day return,noncommercial_net_oi_pct,-0.005521769233419878,562,next_week_thursday_daily_return
+noncommercial,noncommercial net contracts vs next thursday single-day return,noncommercial_net,0.003379857793852355,562,next_week_thursday_daily_return
+noncommercial,noncommercial long/OI pct vs next thursday single-day return,noncommercial_long_oi_pct,0.0023409333057600695,562,next_week_thursday_daily_return
+noncommercial,noncommercial short/OI pct vs next thursday single-day return,noncommercial_short_oi_pct,0.01161497777446372,562,next_week_thursday_daily_return
+noncommercial,noncommercial net/OI pct vs next friday close return,noncommercial_net_oi_pct,-0.03505707682600611,562,next_week_friday_return
+noncommercial,noncommercial net contracts vs next friday close return,noncommercial_net,-0.055797989016176636,562,next_week_friday_return
+noncommercial,noncommercial long/OI pct vs next friday close return,noncommercial_long_oi_pct,-0.033889022798443254,562,next_week_friday_return
+noncommercial,noncommercial short/OI pct vs next friday close return,noncommercial_short_oi_pct,0.02901190455742492,562,next_week_friday_return
+noncommercial,noncommercial net/OI pct vs next friday single-day return,noncommercial_net_oi_pct,-0.03354251220770549,562,next_week_friday_daily_return
+noncommercial,noncommercial net contracts vs next friday single-day return,noncommercial_net,-0.06819301805294235,562,next_week_friday_daily_return
+noncommercial,noncommercial long/OI pct vs next friday single-day return,noncommercial_long_oi_pct,-0.0125170226736147,562,next_week_friday_daily_return
+noncommercial,noncommercial short/OI pct vs next friday single-day return,noncommercial_short_oi_pct,0.04602437229766893,562,next_week_friday_daily_return
+noncommercial,noncommercial net/OI pct vs next week Monday-Friday return,noncommercial_net_oi_pct,-0.027711682957308997,562,next_week_mon_fri_return
+noncommercial,noncommercial net contracts vs next week Monday-Friday return,noncommercial_net,-0.04661367578310697,562,next_week_mon_fri_return
+noncommercial,noncommercial long/OI pct vs next week Monday-Friday return,noncommercial_long_oi_pct,-0.018584855470302683,562,next_week_mon_fri_return
+noncommercial,noncommercial short/OI pct vs next week Monday-Friday return,noncommercial_short_oi_pct,0.030460009101041317,562,next_week_mon_fri_return
+noncommercial,noncommercial net/OI pct vs forward 1w price return,noncommercial_net_oi_pct,-0.02020742592802051,562,forward_return_1w
+noncommercial,noncommercial net contracts vs forward 1w price return,noncommercial_net,-0.023523270627133303,562,forward_return_1w
+noncommercial,noncommercial long/OI pct vs forward 1w price return,noncommercial_long_oi_pct,-0.03020813733039196,562,forward_return_1w
+noncommercial,noncommercial short/OI pct vs forward 1w price return,noncommercial_short_oi_pct,0.006929310446649065,562,forward_return_1w
+noncommercial,noncommercial net/OI pct vs forward 2w price return,noncommercial_net_oi_pct,-0.02613306283100668,561,forward_return_2w
+noncommercial,noncommercial net contracts vs forward 2w price return,noncommercial_net,-0.029224991076479176,561,forward_return_2w
+noncommercial,noncommercial long/OI pct vs forward 2w price return,noncommercial_long_oi_pct,-0.030027857878796714,561,forward_return_2w
+noncommercial,noncommercial short/OI pct vs forward 2w price return,noncommercial_short_oi_pct,0.017242089466868286,561,forward_return_2w
+noncommercial,noncommercial net/OI pct vs forward 3w price return,noncommercial_net_oi_pct,-0.030336187182539692,560,forward_return_3w
+noncommercial,noncommercial net contracts vs forward 3w price return,noncommercial_net,-0.03260997594462904,560,forward_return_3w
+noncommercial,noncommercial long/OI pct vs forward 3w price return,noncommercial_long_oi_pct,-0.035829510302254404,560,forward_return_3w
+noncommercial,noncommercial short/OI pct vs forward 3w price return,noncommercial_short_oi_pct,0.01910421731399856,560,forward_return_3w
+noncommercial,noncommercial net/OI pct vs forward 4w price return,noncommercial_net_oi_pct,-0.02841294441654162,559,forward_return_4w
+noncommercial,noncommercial net contracts vs forward 4w price return,noncommercial_net,-0.031005178363878956,559,forward_return_4w
+noncommercial,noncommercial long/OI pct vs forward 4w price return,noncommercial_long_oi_pct,-0.03448754863989184,559,forward_return_4w
+noncommercial,noncommercial short/OI pct vs forward 4w price return,noncommercial_short_oi_pct,0.017018094112317438,559,forward_return_4w
+noncommercial,noncommercial net/OI pct vs forward 13w price return,noncommercial_net_oi_pct,0.02476915764030232,550,forward_return_13w
+noncommercial,noncommercial net contracts vs forward 13w price return,noncommercial_net,-0.015023043526426623,550,forward_return_13w
+noncommercial,noncommercial long/OI pct vs forward 13w price return,noncommercial_long_oi_pct,0.03348824002808289,550,forward_return_13w
+noncommercial,noncommercial short/OI pct vs forward 13w price return,noncommercial_short_oi_pct,-0.011567092270382252,550,forward_return_13w
+noncommercial,noncommercial net/OI pct vs forward 26w price return,noncommercial_net_oi_pct,0.02819136392968884,537,forward_return_26w
+noncommercial,noncommercial net contracts vs forward 26w price return,noncommercial_net,-0.012855558350112876,537,forward_return_26w
+noncommercial,noncommercial long/OI pct vs forward 26w price return,noncommercial_long_oi_pct,0.08257687131644852,537,forward_return_26w
+noncommercial,noncommercial short/OI pct vs forward 26w price return,noncommercial_short_oi_pct,0.027633121318901197,537,forward_return_26w
+noncommercial,noncommercial net/OI pct vs forward 52w price return,noncommercial_net_oi_pct,0.08267774672322385,511,forward_return_52w
+noncommercial,noncommercial net contracts vs forward 52w price return,noncommercial_net,0.03222255325933538,511,forward_return_52w
+noncommercial,noncommercial long/OI pct vs forward 52w price return,noncommercial_long_oi_pct,0.09067181432868993,511,forward_return_52w
+noncommercial,noncommercial short/OI pct vs forward 52w price return,noncommercial_short_oi_pct,-0.05760912225883495,511,forward_return_52w
+commercial,weekly change in commercial net/OI pct vs weekly price return,commercial_net_oi_pct_change,-0.4106029565483617,562,
+commercial,weekly change in commercial net/OI pct vs next monday close return,commercial_net_oi_pct_change,-0.0029906683210766116,561,next_week_monday_return
+commercial,weekly change in commercial net/OI pct vs next monday single-day return,commercial_net_oi_pct_change,-0.0029906683210766116,561,next_week_monday_daily_return
+commercial,weekly change in commercial net/OI pct vs next tuesday close return,commercial_net_oi_pct_change,0.026346059884093487,561,next_week_tuesday_return
+commercial,weekly change in commercial net/OI pct vs next tuesday single-day return,commercial_net_oi_pct_change,0.07194154772467613,561,next_week_tuesday_daily_return
+commercial,weekly change in commercial net/OI pct vs next wednesday close return,commercial_net_oi_pct_change,0.03665507939190099,561,next_week_wednesday_return
+commercial,weekly change in commercial net/OI pct vs next wednesday single-day return,commercial_net_oi_pct_change,0.034785596446980795,561,next_week_wednesday_daily_return
+commercial,weekly change in commercial net/OI pct vs next thursday close return,commercial_net_oi_pct_change,0.001970079517797806,561,next_week_thursday_return
+commercial,weekly change in commercial net/OI pct vs next thursday single-day return,commercial_net_oi_pct_change,-0.07836233314620995,561,next_week_thursday_daily_return
+commercial,weekly change in commercial net/OI pct vs next friday close return,commercial_net_oi_pct_change,0.025635757299730312,561,next_week_friday_return
+commercial,weekly change in commercial net/OI pct vs next friday single-day return,commercial_net_oi_pct_change,0.05785056768924894,561,next_week_friday_daily_return
+commercial,weekly change in commercial net/OI pct vs next week Monday-Friday return,commercial_net_oi_pct_change,0.04166440031310976,561,next_week_mon_fri_return
+commercial,weekly change in commercial net contracts vs weekly price return,commercial_net_change,-0.5536767383009761,562,
+commercial,weekly change in commercial net contracts vs next monday close return,commercial_net_change,0.0044904849715677354,561,next_week_monday_return
+commercial,weekly change in commercial net contracts vs next monday single-day return,commercial_net_change,0.0044904849715677354,561,next_week_monday_daily_return
+commercial,weekly change in commercial net contracts vs next tuesday close return,commercial_net_change,0.040767745766328085,561,next_week_tuesday_return
+commercial,weekly change in commercial net contracts vs next tuesday single-day return,commercial_net_change,0.09060285496208846,561,next_week_tuesday_daily_return
+commercial,weekly change in commercial net contracts vs next wednesday close return,commercial_net_change,0.04757720931169341,561,next_week_wednesday_return
+commercial,weekly change in commercial net contracts vs next wednesday single-day return,commercial_net_change,0.02641406477763075,561,next_week_wednesday_daily_return
+commercial,weekly change in commercial net contracts vs next thursday close return,commercial_net_change,0.028058827828532713,561,next_week_thursday_return
+commercial,weekly change in commercial net contracts vs next thursday single-day return,commercial_net_change,-0.038175222344243614,561,next_week_thursday_daily_return
+commercial,weekly change in commercial net contracts vs next friday close return,commercial_net_change,0.044706718660572575,561,next_week_friday_return
+commercial,weekly change in commercial net contracts vs next friday single-day return,commercial_net_change,0.04298006974691808,561,next_week_friday_daily_return
+commercial,weekly change in commercial net contracts vs next week Monday-Friday return,commercial_net_change,0.060167797710825865,561,next_week_mon_fri_return
+commercial,weekly change in commercial long/OI pct vs weekly price return,commercial_long_oi_pct_change,-0.3683928075748331,562,
+commercial,weekly change in commercial long/OI pct vs next monday close return,commercial_long_oi_pct_change,0.02367403113781168,561,next_week_monday_return
+commercial,weekly change in commercial long/OI pct vs next monday single-day return,commercial_long_oi_pct_change,0.02367403113781168,561,next_week_monday_daily_return
+commercial,weekly change in commercial long/OI pct vs next tuesday close return,commercial_long_oi_pct_change,0.06372765236258784,561,next_week_tuesday_return
+commercial,weekly change in commercial long/OI pct vs next tuesday single-day return,commercial_long_oi_pct_change,0.10344228980095878,561,next_week_tuesday_daily_return
+commercial,weekly change in commercial long/OI pct vs next wednesday close return,commercial_long_oi_pct_change,0.06198458783125287,561,next_week_wednesday_return
+commercial,weekly change in commercial long/OI pct vs next wednesday single-day return,commercial_long_oi_pct_change,0.009163712455603672,561,next_week_wednesday_daily_return
+commercial,weekly change in commercial long/OI pct vs next thursday close return,commercial_long_oi_pct_change,0.029505828265131873,561,next_week_thursday_return
+commercial,weekly change in commercial long/OI pct vs next thursday single-day return,commercial_long_oi_pct_change,-0.06886146451438671,561,next_week_thursday_daily_return
+commercial,weekly change in commercial long/OI pct vs next friday close return,commercial_long_oi_pct_change,0.04192651452217219,561,next_week_friday_return
+commercial,weekly change in commercial long/OI pct vs next friday single-day return,commercial_long_oi_pct_change,0.032628012916730835,561,next_week_friday_daily_return
+commercial,weekly change in commercial long/OI pct vs next week Monday-Friday return,commercial_long_oi_pct_change,0.03462369106018508,561,next_week_mon_fri_return
+commercial,weekly change in commercial short/OI pct vs weekly price return,commercial_short_oi_pct_change,0.2894578349129533,562,
+commercial,weekly change in commercial short/OI pct vs next monday close return,commercial_short_oi_pct_change,0.019107547864956154,561,next_week_monday_return
+commercial,weekly change in commercial short/OI pct vs next monday single-day return,commercial_short_oi_pct_change,0.019107547864956154,561,next_week_monday_daily_return
+commercial,weekly change in commercial short/OI pct vs next tuesday close return,commercial_short_oi_pct_change,0.007281503757527669,561,next_week_tuesday_return
+commercial,weekly change in commercial short/OI pct vs next tuesday single-day return,commercial_short_oi_pct_change,-0.025633985614451762,561,next_week_tuesday_daily_return
+commercial,weekly change in commercial short/OI pct vs next wednesday close return,commercial_short_oi_pct_change,-0.007076021555056499,561,next_week_wednesday_return
+commercial,weekly change in commercial short/OI pct vs next wednesday single-day return,commercial_short_oi_pct_change,-0.038742968522111114,561,next_week_wednesday_daily_return
+commercial,weekly change in commercial short/OI pct vs next thursday close return,commercial_short_oi_pct_change,0.016500812340764687,561,next_week_thursday_return
+commercial,weekly change in commercial short/OI pct vs next thursday single-day return,commercial_short_oi_pct_change,0.05617897782818251,561,next_week_thursday_daily_return
+commercial,weekly change in commercial short/OI pct vs next friday close return,commercial_short_oi_pct_change,-0.005867313773633049,561,next_week_friday_return
+commercial,weekly change in commercial short/OI pct vs next friday single-day return,commercial_short_oi_pct_change,-0.053217426770448356,561,next_week_friday_daily_return
+commercial,weekly change in commercial short/OI pct vs next week Monday-Friday return,commercial_short_oi_pct_change,-0.031152683359728768,561,next_week_mon_fri_return
+commercial,commercial net/OI pct vs next monday close return,commercial_net_oi_pct,0.024767731400643415,562,next_week_monday_return
+commercial,commercial net contracts vs next monday close return,commercial_net,0.033709510956582735,562,next_week_monday_return
+commercial,commercial long/OI pct vs next monday close return,commercial_long_oi_pct,0.02827587756626156,562,next_week_monday_return
+commercial,commercial short/OI pct vs next monday close return,commercial_short_oi_pct,-0.01867290044973739,562,next_week_monday_return
+commercial,commercial net/OI pct vs next monday single-day return,commercial_net_oi_pct,0.024767731400643415,562,next_week_monday_daily_return
+commercial,commercial net contracts vs next monday single-day return,commercial_net,0.033709510956582735,562,next_week_monday_daily_return
+commercial,commercial long/OI pct vs next monday single-day return,commercial_long_oi_pct,0.02827587756626156,562,next_week_monday_daily_return
+commercial,commercial short/OI pct vs next monday single-day return,commercial_short_oi_pct,-0.01867290044973739,562,next_week_monday_daily_return
+commercial,commercial net/OI pct vs next tuesday close return,commercial_net_oi_pct,0.027525255008362223,562,next_week_tuesday_return
+commercial,commercial net contracts vs next tuesday close return,commercial_net,0.02973473583766222,562,next_week_tuesday_return
+commercial,commercial long/OI pct vs next tuesday close return,commercial_long_oi_pct,0.021708370523972797,562,next_week_tuesday_return
+commercial,commercial short/OI pct vs next tuesday close return,commercial_short_oi_pct,-0.026740655904062365,562,next_week_tuesday_return
+commercial,commercial net/OI pct vs next tuesday single-day return,commercial_net_oi_pct,0.009838650661032332,562,next_week_tuesday_daily_return
+commercial,commercial net contracts vs next tuesday single-day return,commercial_net,-0.005554755788843683,562,next_week_tuesday_daily_return
+commercial,commercial long/OI pct vs next tuesday single-day return,commercial_long_oi_pct,-0.0113813790559836,562,next_week_tuesday_daily_return
+commercial,commercial short/OI pct vs next tuesday single-day return,commercial_short_oi_pct,-0.02135681037608748,562,next_week_tuesday_daily_return
+commercial,commercial net/OI pct vs next wednesday close return,commercial_net_oi_pct,0.023199902757265297,562,next_week_wednesday_return
+commercial,commercial net contracts vs next wednesday close return,commercial_net,0.035167048522032215,562,next_week_wednesday_return
+commercial,commercial long/OI pct vs next wednesday close return,commercial_long_oi_pct,0.01579481079379342,562,next_week_wednesday_return
+commercial,commercial short/OI pct vs next wednesday close return,commercial_short_oi_pct,-0.02408102732078138,562,next_week_wednesday_return
+commercial,commercial net/OI pct vs next wednesday single-day return,commercial_net_oi_pct,-0.004264151705935751,562,next_week_wednesday_daily_return
+commercial,commercial net contracts vs next wednesday single-day return,commercial_net,0.021308222851070313,562,next_week_wednesday_daily_return
+commercial,commercial long/OI pct vs next wednesday single-day return,commercial_long_oi_pct,-0.009123248887569931,562,next_week_wednesday_daily_return
+commercial,commercial short/OI pct vs next wednesday single-day return,commercial_short_oi_pct,0.0005919350789704873,562,next_week_wednesday_daily_return
+commercial,commercial net/OI pct vs next thursday close return,commercial_net_oi_pct,0.028974842899297536,562,next_week_thursday_return
+commercial,commercial net contracts vs next thursday close return,commercial_net,0.03476086851232222,562,next_week_thursday_return
+commercial,commercial long/OI pct vs next thursday close return,commercial_long_oi_pct,0.021074774190547898,562,next_week_thursday_return
+commercial,commercial short/OI pct vs next thursday close return,commercial_short_oi_pct,-0.029244188660013163,562,next_week_thursday_return
+commercial,commercial net/OI pct vs next thursday single-day return,commercial_net_oi_pct,0.017679234933056835,562,next_week_thursday_daily_return
+commercial,commercial net contracts vs next thursday single-day return,commercial_net,0.005278737510128136,562,next_week_thursday_daily_return
+commercial,commercial long/OI pct vs next thursday single-day return,commercial_long_oi_pct,0.014994625091272858,562,next_week_thursday_daily_return
+commercial,commercial short/OI pct vs next thursday single-day return,commercial_short_oi_pct,-0.01652712286146487,562,next_week_thursday_daily_return
+commercial,commercial net/OI pct vs next friday close return,commercial_net_oi_pct,0.041728145756579904,562,next_week_friday_return
+commercial,commercial net contracts vs next friday close return,commercial_net,0.062114560766859436,562,next_week_friday_return
+commercial,commercial long/OI pct vs next friday close return,commercial_long_oi_pct,0.028129890313578352,562,next_week_friday_return
+commercial,commercial short/OI pct vs next friday close return,commercial_short_oi_pct,-0.04348506944422074,562,next_week_friday_return
+commercial,commercial net/OI pct vs next friday single-day return,commercial_net_oi_pct,0.030966560232254997,562,next_week_friday_daily_return
+commercial,commercial net contracts vs next friday single-day return,commercial_net,0.06841375384328888,562,next_week_friday_daily_return
+commercial,commercial long/OI pct vs next friday single-day return,commercial_long_oi_pct,0.01627753749676754,562,next_week_friday_daily_return
+commercial,commercial short/OI pct vs next friday single-day return,commercial_short_oi_pct,-0.03510446144157664,562,next_week_friday_daily_return
+commercial,commercial net/OI pct vs next week Monday-Friday return,commercial_net_oi_pct,0.030967748332666325,562,next_week_mon_fri_return
+commercial,commercial net contracts vs next week Monday-Friday return,commercial_net,0.04969346910984699,562,next_week_mon_fri_return
+commercial,commercial long/OI pct vs next week Monday-Friday return,commercial_long_oi_pct,0.008206223449645004,562,next_week_mon_fri_return
+commercial,commercial short/OI pct vs next week Monday-Friday return,commercial_short_oi_pct,-0.0400814335627019,562,next_week_mon_fri_return
+commercial,commercial net/OI pct vs forward 1w price return,commercial_net_oi_pct,0.02649896280463737,562,forward_return_1w
+commercial,commercial net contracts vs forward 1w price return,commercial_net,0.028632582996579007,562,forward_return_1w
+commercial,commercial long/OI pct vs forward 1w price return,commercial_long_oi_pct,0.020814991648137854,562,forward_return_1w
+commercial,commercial short/OI pct vs forward 1w price return,commercial_short_oi_pct,-0.025795379030700095,562,forward_return_1w
+commercial,commercial net/OI pct vs forward 2w price return,commercial_net_oi_pct,0.035695983905675556,561,forward_return_2w
+commercial,commercial net contracts vs forward 2w price return,commercial_net,0.0367931759438955,561,forward_return_2w
+commercial,commercial long/OI pct vs forward 2w price return,commercial_long_oi_pct,0.016716719538761166,561,forward_return_2w
+commercial,commercial short/OI pct vs forward 2w price return,commercial_short_oi_pct,-0.04169953000931613,561,forward_return_2w
+commercial,commercial net/OI pct vs forward 3w price return,commercial_net_oi_pct,0.043928434517335364,560,forward_return_3w
+commercial,commercial net contracts vs forward 3w price return,commercial_net,0.04358957366442601,560,forward_return_3w
+commercial,commercial long/OI pct vs forward 3w price return,commercial_long_oi_pct,0.02048856390082132,560,forward_return_3w
+commercial,commercial short/OI pct vs forward 3w price return,commercial_short_oi_pct,-0.051334479128314854,560,forward_return_3w
+commercial,commercial net/OI pct vs forward 4w price return,commercial_net_oi_pct,0.04468441996899524,559,forward_return_4w
+commercial,commercial net contracts vs forward 4w price return,commercial_net,0.043835875650342714,559,forward_return_4w
+commercial,commercial long/OI pct vs forward 4w price return,commercial_long_oi_pct,0.014383020537260257,559,forward_return_4w
+commercial,commercial short/OI pct vs forward 4w price return,commercial_short_oi_pct,-0.05614121714013957,559,forward_return_4w
+commercial,commercial net/OI pct vs forward 13w price return,commercial_net_oi_pct,-0.0067121652023816765,550,forward_return_13w
+commercial,commercial net contracts vs forward 13w price return,commercial_net,0.03011303994935003,550,forward_return_13w
+commercial,commercial long/OI pct vs forward 13w price return,commercial_long_oi_pct,-0.08201610743933796,550,forward_return_13w
+commercial,commercial short/OI pct vs forward 13w price return,commercial_short_oi_pct,-0.04060049662325532,550,forward_return_13w
+commercial,commercial net/OI pct vs forward 26w price return,commercial_net_oi_pct,-0.008616458779911865,537,forward_return_26w
+commercial,commercial net contracts vs forward 26w price return,commercial_net,0.03094038714376911,537,forward_return_26w
+commercial,commercial long/OI pct vs forward 26w price return,commercial_long_oi_pct,-0.1365969433222668,537,forward_return_26w
+commercial,commercial short/OI pct vs forward 26w price return,commercial_short_oi_pct,-0.07078213731750965,537,forward_return_26w
+commercial,commercial net/OI pct vs forward 52w price return,commercial_net_oi_pct,-0.07761725414831501,511,forward_return_52w
+commercial,commercial net contracts vs forward 52w price return,commercial_net,-0.024415759347765832,511,forward_return_52w
+commercial,commercial long/OI pct vs forward 52w price return,commercial_long_oi_pct,-0.21094557018905769,511,forward_return_52w
+commercial,commercial short/OI pct vs forward 52w price return,commercial_short_oi_pct,-0.015024943006260085,511,forward_return_52w
+total_reportable,weekly change in total reportable net/OI pct vs weekly price return,total_reportable_net_oi_pct_change,0.027769751336260792,562,
+total_reportable,weekly change in total reportable net/OI pct vs next monday close return,total_reportable_net_oi_pct_change,0.022113326039987523,561,next_week_monday_return
+total_reportable,weekly change in total reportable net/OI pct vs next monday single-day return,total_reportable_net_oi_pct_change,0.022113326039987523,561,next_week_monday_daily_return
+total_reportable,weekly change in total reportable net/OI pct vs next tuesday close return,total_reportable_net_oi_pct_change,0.008918772198469472,561,next_week_tuesday_return
+total_reportable,weekly change in total reportable net/OI pct vs next tuesday single-day return,total_reportable_net_oi_pct_change,-0.028666449613505444,561,next_week_tuesday_daily_return
+total_reportable,weekly change in total reportable net/OI pct vs next wednesday close return,total_reportable_net_oi_pct_change,-0.00834082379380922,561,next_week_wednesday_return
+total_reportable,weekly change in total reportable net/OI pct vs next wednesday single-day return,total_reportable_net_oi_pct_change,-0.04235520946691017,561,next_week_wednesday_daily_return
+total_reportable,weekly change in total reportable net/OI pct vs next thursday close return,total_reportable_net_oi_pct_change,-0.04279291312066973,561,next_week_thursday_return
+total_reportable,weekly change in total reportable net/OI pct vs next thursday single-day return,total_reportable_net_oi_pct_change,-0.08819185374229212,561,next_week_thursday_daily_return
+total_reportable,weekly change in total reportable net/OI pct vs next friday close return,total_reportable_net_oi_pct_change,-0.03646844336107612,561,next_week_friday_return
+total_reportable,weekly change in total reportable net/OI pct vs next friday single-day return,total_reportable_net_oi_pct_change,0.01379353927833909,561,next_week_friday_daily_return
+total_reportable,weekly change in total reportable net/OI pct vs next week Monday-Friday return,total_reportable_net_oi_pct_change,-0.07444491586990792,561,next_week_mon_fri_return
+total_reportable,weekly change in total reportable net contracts vs weekly price return,total_reportable_net_change,-0.08069180041065975,562,
+total_reportable,weekly change in total reportable net contracts vs next monday close return,total_reportable_net_change,0.03245003137986342,561,next_week_monday_return
+total_reportable,weekly change in total reportable net contracts vs next monday single-day return,total_reportable_net_change,0.03245003137986342,561,next_week_monday_daily_return
+total_reportable,weekly change in total reportable net contracts vs next tuesday close return,total_reportable_net_change,0.021104173930946518,561,next_week_tuesday_return
+total_reportable,weekly change in total reportable net contracts vs next tuesday single-day return,total_reportable_net_change,-0.02156159243118133,561,next_week_tuesday_daily_return
+total_reportable,weekly change in total reportable net contracts vs next wednesday close return,total_reportable_net_change,0.0048305998555078404,561,next_week_wednesday_return
+total_reportable,weekly change in total reportable net contracts vs next wednesday single-day return,total_reportable_net_change,-0.03794435347921871,561,next_week_wednesday_daily_return
+total_reportable,weekly change in total reportable net contracts vs next thursday close return,total_reportable_net_change,-0.03259075224393479,561,next_week_thursday_return
+total_reportable,weekly change in total reportable net contracts vs next thursday single-day return,total_reportable_net_change,-0.09256924190685438,561,next_week_thursday_daily_return
+total_reportable,weekly change in total reportable net contracts vs next friday close return,total_reportable_net_change,-0.030527946714744264,561,next_week_friday_return
+total_reportable,weekly change in total reportable net contracts vs next friday single-day return,total_reportable_net_change,0.0041112849908421685,561,next_week_friday_daily_return
+total_reportable,weekly change in total reportable net contracts vs next week Monday-Friday return,total_reportable_net_change,-0.0771599714783817,561,next_week_mon_fri_return
+total_reportable,weekly change in total reportable long/OI pct vs weekly price return,total_reportable_long_oi_pct_change,0.050433719419578756,562,
+total_reportable,weekly change in total reportable long/OI pct vs next monday close return,total_reportable_long_oi_pct_change,0.033811915559077976,561,next_week_monday_return
+total_reportable,weekly change in total reportable long/OI pct vs next monday single-day return,total_reportable_long_oi_pct_change,0.033811915559077976,561,next_week_monday_daily_return
+total_reportable,weekly change in total reportable long/OI pct vs next tuesday close return,total_reportable_long_oi_pct_change,0.05313883706133014,561,next_week_tuesday_return
+total_reportable,weekly change in total reportable long/OI pct vs next tuesday single-day return,total_reportable_long_oi_pct_change,0.04756337878674128,561,next_week_tuesday_daily_return
+total_reportable,weekly change in total reportable long/OI pct vs next wednesday close return,total_reportable_long_oi_pct_change,0.025007953093019845,561,next_week_wednesday_return
+total_reportable,weekly change in total reportable long/OI pct vs next wednesday single-day return,total_reportable_long_oi_pct_change,-0.06152996626488604,561,next_week_wednesday_daily_return
+total_reportable,weekly change in total reportable long/OI pct vs next thursday close return,total_reportable_long_oi_pct_change,-0.015332908510183872,561,next_week_thursday_return
+total_reportable,weekly change in total reportable long/OI pct vs next thursday single-day return,total_reportable_long_oi_pct_change,-0.09482922757479148,561,next_week_thursday_daily_return
+total_reportable,weekly change in total reportable long/OI pct vs next friday close return,total_reportable_long_oi_pct_change,-0.01936230846156031,561,next_week_friday_return
+total_reportable,weekly change in total reportable long/OI pct vs next friday single-day return,total_reportable_long_oi_pct_change,-0.007581290168910238,561,next_week_friday_daily_return
+total_reportable,weekly change in total reportable long/OI pct vs next week Monday-Friday return,total_reportable_long_oi_pct_change,-0.06407037719908557,561,next_week_mon_fri_return
+total_reportable,weekly change in total reportable short/OI pct vs weekly price return,total_reportable_short_oi_pct_change,0.02208331717213549,562,
+total_reportable,weekly change in total reportable short/OI pct vs next monday close return,total_reportable_short_oi_pct_change,0.010670207074517912,561,next_week_monday_return
+total_reportable,weekly change in total reportable short/OI pct vs next monday single-day return,total_reportable_short_oi_pct_change,0.010670207074517912,561,next_week_monday_daily_return
+total_reportable,weekly change in total reportable short/OI pct vs next tuesday close return,total_reportable_short_oi_pct_change,0.04732824530549976,561,next_week_tuesday_return
+total_reportable,weekly change in total reportable short/OI pct vs next tuesday single-day return,total_reportable_short_oi_pct_change,0.08571400680804513,561,next_week_tuesday_daily_return
+total_reportable,weekly change in total reportable short/OI pct vs next wednesday close return,total_reportable_short_oi_pct_change,0.037104394208117356,561,next_week_wednesday_return
+total_reportable,weekly change in total reportable short/OI pct vs next wednesday single-day return,total_reportable_short_oi_pct_change,-0.016916745574150186,561,next_week_wednesday_daily_return
+total_reportable,weekly change in total reportable short/OI pct vs next thursday close return,total_reportable_short_oi_pct_change,0.03391812371607936,561,next_week_thursday_return
+total_reportable,weekly change in total reportable short/OI pct vs next thursday single-day return,total_reportable_short_oi_pct_change,0.0010330449005664807,561,next_week_thursday_daily_return
+total_reportable,weekly change in total reportable short/OI pct vs next friday close return,total_reportable_short_oi_pct_change,0.02204833232576031,561,next_week_friday_return
+total_reportable,weekly change in total reportable short/OI pct vs next friday single-day return,total_reportable_short_oi_pct_change,-0.0245734002784496,561,next_week_friday_daily_return
+total_reportable,weekly change in total reportable short/OI pct vs next week Monday-Friday return,total_reportable_short_oi_pct_change,0.018274257474819082,561,next_week_mon_fri_return
+total_reportable,total reportable net/OI pct vs next monday close return,total_reportable_net_oi_pct,0.051338575725589065,562,next_week_monday_return
+total_reportable,total reportable net contracts vs next monday close return,total_reportable_net,0.0633299506573134,562,next_week_monday_return
+total_reportable,total reportable long/OI pct vs next monday close return,total_reportable_long_oi_pct,0.010032705599129686,562,next_week_monday_return
+total_reportable,total reportable short/OI pct vs next monday close return,total_reportable_short_oi_pct,-0.07185528645032693,562,next_week_monday_return
+total_reportable,total reportable net/OI pct vs next monday single-day return,total_reportable_net_oi_pct,0.051338575725589065,562,next_week_monday_daily_return
+total_reportable,total reportable net contracts vs next monday single-day return,total_reportable_net,0.0633299506573134,562,next_week_monday_daily_return
+total_reportable,total reportable long/OI pct vs next monday single-day return,total_reportable_long_oi_pct,0.010032705599129686,562,next_week_monday_daily_return
+total_reportable,total reportable short/OI pct vs next monday single-day return,total_reportable_short_oi_pct,-0.07185528645032693,562,next_week_monday_daily_return
+total_reportable,total reportable net/OI pct vs next tuesday close return,total_reportable_net_oi_pct,0.05743392527534842,562,next_week_tuesday_return
+total_reportable,total reportable net contracts vs next tuesday close return,total_reportable_net,0.05969178775424457,562,next_week_tuesday_return
+total_reportable,total reportable long/OI pct vs next tuesday close return,total_reportable_long_oi_pct,0.023823710601683985,562,next_week_tuesday_return
+total_reportable,total reportable short/OI pct vs next tuesday close return,total_reportable_short_oi_pct,-0.06580074140428674,562,next_week_tuesday_return
+total_reportable,total reportable net/OI pct vs next tuesday single-day return,total_reportable_net_oi_pct,0.019939800930147404,562,next_week_tuesday_daily_return
+total_reportable,total reportable net contracts vs next tuesday single-day return,total_reportable_net,-0.0022728839103012583,562,next_week_tuesday_daily_return
+total_reportable,total reportable long/OI pct vs next tuesday single-day return,total_reportable_long_oi_pct,0.0315308605797978,562,next_week_tuesday_daily_return
+total_reportable,total reportable short/OI pct vs next tuesday single-day return,total_reportable_short_oi_pct,0.004081399923730228,562,next_week_tuesday_daily_return
+total_reportable,total reportable net/OI pct vs next wednesday close return,total_reportable_net_oi_pct,0.03433598214294885,562,next_week_wednesday_return
+total_reportable,total reportable net contracts vs next wednesday close return,total_reportable_net,0.04642909462331075,562,next_week_wednesday_return
+total_reportable,total reportable long/OI pct vs next wednesday close return,total_reportable_long_oi_pct,-0.006189292855167602,562,next_week_wednesday_return
+total_reportable,total reportable short/OI pct vs next wednesday close return,total_reportable_short_oi_pct,-0.06299034386487895,562,next_week_wednesday_return
+total_reportable,total reportable net/OI pct vs next wednesday single-day return,total_reportable_net_oi_pct,-0.04671518977498717,562,next_week_wednesday_daily_return
+total_reportable,total reportable net contracts vs next wednesday single-day return,total_reportable_net,-0.020778786370075488,562,next_week_wednesday_daily_return
+total_reportable,total reportable long/OI pct vs next wednesday single-day return,total_reportable_long_oi_pct,-0.07219339363029609,562,next_week_wednesday_daily_return
+total_reportable,total reportable short/OI pct vs next wednesday single-day return,total_reportable_short_oi_pct,-0.007620088812854707,562,next_week_wednesday_daily_return
+total_reportable,total reportable net/OI pct vs next thursday close return,total_reportable_net_oi_pct,0.06803719019735169,562,next_week_thursday_return
+total_reportable,total reportable net contracts vs next thursday close return,total_reportable_net,0.07192551941062025,562,next_week_thursday_return
+total_reportable,total reportable long/OI pct vs next thursday close return,total_reportable_long_oi_pct,0.023621307204467135,562,next_week_thursday_return
+total_reportable,total reportable short/OI pct vs next thursday close return,total_reportable_short_oi_pct,-0.08327447192352548,562,next_week_thursday_return
+total_reportable,total reportable net/OI pct vs next thursday single-day return,total_reportable_net_oi_pct,0.08955712169731686,562,next_week_thursday_daily_return
+total_reportable,total reportable net contracts vs next thursday single-day return,total_reportable_net,0.07192052653442393,562,next_week_thursday_daily_return
+total_reportable,total reportable long/OI pct vs next thursday single-day return,total_reportable_long_oi_pct,0.07179810838094454,562,next_week_thursday_daily_return
+total_reportable,total reportable short/OI pct vs next thursday single-day return,total_reportable_short_oi_pct,-0.06249248510180774,562,next_week_thursday_daily_return
+total_reportable,total reportable net/OI pct vs next friday close return,total_reportable_net_oi_pct,0.06818898290688433,562,next_week_friday_return
+total_reportable,total reportable net contracts vs next friday close return,total_reportable_net,0.08951037284742612,562,next_week_friday_return
+total_reportable,total reportable long/OI pct vs next friday close return,total_reportable_long_oi_pct,0.010315314685941419,562,next_week_friday_return
+total_reportable,total reportable short/OI pct vs next friday close return,total_reportable_short_oi_pct,-0.09892453609842963,562,next_week_friday_return
+total_reportable,total reportable net/OI pct vs next friday single-day return,total_reportable_net_oi_pct,0.0016684465889980386,562,next_week_friday_daily_return
+total_reportable,total reportable net contracts vs next friday single-day return,total_reportable_net,0.045244540052799424,562,next_week_friday_daily_return
+total_reportable,total reportable long/OI pct vs next friday single-day return,total_reportable_long_oi_pct,-0.034413461045877135,562,next_week_friday_daily_return
+total_reportable,total reportable short/OI pct vs next friday single-day return,total_reportable_short_oi_pct,-0.042550338835717454,562,next_week_friday_daily_return
+total_reportable,total reportable net/OI pct vs next week Monday-Friday return,total_reportable_net_oi_pct,0.03958661815248998,562,next_week_mon_fri_return
+total_reportable,total reportable net contracts vs next week Monday-Friday return,total_reportable_net,0.055982287767542945,562,next_week_mon_fri_return
+total_reportable,total reportable long/OI pct vs next week Monday-Friday return,total_reportable_long_oi_pct,0.002123719112619367,562,next_week_mon_fri_return
+total_reportable,total reportable short/OI pct vs next week Monday-Friday return,total_reportable_short_oi_pct,-0.061903841964776184,562,next_week_mon_fri_return
+total_reportable,total reportable net/OI pct vs forward 1w price return,total_reportable_net_oi_pct,0.05666439862258294,562,forward_return_1w
+total_reportable,total reportable net contracts vs forward 1w price return,total_reportable_net,0.05866308673953745,562,forward_return_1w
+total_reportable,total reportable long/OI pct vs forward 1w price return,total_reportable_long_oi_pct,0.023601014848274128,562,forward_return_1w
+total_reportable,total reportable short/OI pct vs forward 1w price return,total_reportable_short_oi_pct,-0.0648073956347666,562,forward_return_1w
+total_reportable,total reportable net/OI pct vs forward 2w price return,total_reportable_net_oi_pct,0.08343977969534938,561,forward_return_2w
+total_reportable,total reportable net contracts vs forward 2w price return,total_reportable_net,0.0833655503282615,561,forward_return_2w
+total_reportable,total reportable long/OI pct vs forward 2w price return,total_reportable_long_oi_pct,0.016428304546420105,561,forward_return_2w
+total_reportable,total reportable short/OI pct vs forward 2w price return,total_reportable_short_oi_pct,-0.11637615861690855,561,forward_return_2w
+total_reportable,total reportable net/OI pct vs forward 3w price return,total_reportable_net_oi_pct,0.11452807993710483,560,forward_return_3w
+total_reportable,total reportable net contracts vs forward 3w price return,total_reportable_net,0.11474266716136827,560,forward_return_3w
+total_reportable,total reportable long/OI pct vs forward 3w price return,total_reportable_long_oi_pct,0.03985090835154094,560,forward_return_3w
+total_reportable,total reportable short/OI pct vs forward 3w price return,total_reportable_short_oi_pct,-0.1395647872527245,560,forward_return_3w
+total_reportable,total reportable net/OI pct vs forward 4w price return,total_reportable_net_oi_pct,0.1325350619230843,559,forward_return_4w
+total_reportable,total reportable net contracts vs forward 4w price return,total_reportable_net,0.1296861028309129,559,forward_return_4w
+total_reportable,total reportable long/OI pct vs forward 4w price return,total_reportable_long_oi_pct,0.038253073772970006,559,forward_return_4w
+total_reportable,total reportable short/OI pct vs forward 4w price return,total_reportable_short_oi_pct,-0.1701489613062452,559,forward_return_4w
+total_reportable,total reportable net/OI pct vs forward 13w price return,total_reportable_net_oi_pct,0.11515611450862547,550,forward_return_13w
+total_reportable,total reportable net contracts vs forward 13w price return,total_reportable_net,0.13954978356998216,550,forward_return_13w
+total_reportable,total reportable long/OI pct vs forward 13w price return,total_reportable_long_oi_pct,-0.004119534263256893,550,forward_return_13w
+total_reportable,total reportable short/OI pct vs forward 13w price return,total_reportable_short_oi_pct,-0.18866302146217612,550,forward_return_13w
+total_reportable,total reportable net/OI pct vs forward 26w price return,total_reportable_net_oi_pct,0.12919921909730994,537,forward_return_26w
+total_reportable,total reportable net contracts vs forward 26w price return,total_reportable_net,0.16524900510904303,537,forward_return_26w
+total_reportable,total reportable long/OI pct vs forward 26w price return,total_reportable_long_oi_pct,-0.032302086077016214,537,forward_return_26w
+total_reportable,total reportable short/OI pct vs forward 26w price return,total_reportable_short_oi_pct,-0.23328737737456048,537,forward_return_26w
+total_reportable,total reportable net/OI pct vs forward 52w price return,total_reportable_net_oi_pct,-0.004536941261988107,511,forward_return_52w
+total_reportable,total reportable net contracts vs forward 52w price return,total_reportable_net,0.05037595598527879,511,forward_return_52w
+total_reportable,total reportable long/OI pct vs forward 52w price return,total_reportable_long_oi_pct,-0.10150260260776824,511,forward_return_52w
+total_reportable,total reportable short/OI pct vs forward 52w price return,total_reportable_short_oi_pct,-0.09140687506122659,511,forward_return_52w
+nonreportable,weekly change in nonreportable net/OI pct vs weekly price return,nonreportable_net_oi_pct_change,-0.027769751336260792,562,
+nonreportable,weekly change in nonreportable net/OI pct vs next monday close return,nonreportable_net_oi_pct_change,-0.022113326039987523,561,next_week_monday_return
+nonreportable,weekly change in nonreportable net/OI pct vs next monday single-day return,nonreportable_net_oi_pct_change,-0.022113326039987523,561,next_week_monday_daily_return
+nonreportable,weekly change in nonreportable net/OI pct vs next tuesday close return,nonreportable_net_oi_pct_change,-0.008918772198469472,561,next_week_tuesday_return
+nonreportable,weekly change in nonreportable net/OI pct vs next tuesday single-day return,nonreportable_net_oi_pct_change,0.028666449613505444,561,next_week_tuesday_daily_return
+nonreportable,weekly change in nonreportable net/OI pct vs next wednesday close return,nonreportable_net_oi_pct_change,0.00834082379380922,561,next_week_wednesday_return
+nonreportable,weekly change in nonreportable net/OI pct vs next wednesday single-day return,nonreportable_net_oi_pct_change,0.04235520946691017,561,next_week_wednesday_daily_return
+nonreportable,weekly change in nonreportable net/OI pct vs next thursday close return,nonreportable_net_oi_pct_change,0.04279291312066973,561,next_week_thursday_return
+nonreportable,weekly change in nonreportable net/OI pct vs next thursday single-day return,nonreportable_net_oi_pct_change,0.08819185374229212,561,next_week_thursday_daily_return
+nonreportable,weekly change in nonreportable net/OI pct vs next friday close return,nonreportable_net_oi_pct_change,0.03646844336107612,561,next_week_friday_return
+nonreportable,weekly change in nonreportable net/OI pct vs next friday single-day return,nonreportable_net_oi_pct_change,-0.01379353927833909,561,next_week_friday_daily_return
+nonreportable,weekly change in nonreportable net/OI pct vs next week Monday-Friday return,nonreportable_net_oi_pct_change,0.07444491586990792,561,next_week_mon_fri_return
+nonreportable,weekly change in nonreportable net contracts vs weekly price return,nonreportable_net_change,0.08069180041065975,562,
+nonreportable,weekly change in nonreportable net contracts vs next monday close return,nonreportable_net_change,-0.03245003137986342,561,next_week_monday_return
+nonreportable,weekly change in nonreportable net contracts vs next monday single-day return,nonreportable_net_change,-0.03245003137986342,561,next_week_monday_daily_return
+nonreportable,weekly change in nonreportable net contracts vs next tuesday close return,nonreportable_net_change,-0.021104173930946518,561,next_week_tuesday_return
+nonreportable,weekly change in nonreportable net contracts vs next tuesday single-day return,nonreportable_net_change,0.02156159243118133,561,next_week_tuesday_daily_return
+nonreportable,weekly change in nonreportable net contracts vs next wednesday close return,nonreportable_net_change,-0.0048305998555078404,561,next_week_wednesday_return
+nonreportable,weekly change in nonreportable net contracts vs next wednesday single-day return,nonreportable_net_change,0.03794435347921871,561,next_week_wednesday_daily_return
+nonreportable,weekly change in nonreportable net contracts vs next thursday close return,nonreportable_net_change,0.03259075224393479,561,next_week_thursday_return
+nonreportable,weekly change in nonreportable net contracts vs next thursday single-day return,nonreportable_net_change,0.09256924190685438,561,next_week_thursday_daily_return
+nonreportable,weekly change in nonreportable net contracts vs next friday close return,nonreportable_net_change,0.030527946714744264,561,next_week_friday_return
+nonreportable,weekly change in nonreportable net contracts vs next friday single-day return,nonreportable_net_change,-0.0041112849908421685,561,next_week_friday_daily_return
+nonreportable,weekly change in nonreportable net contracts vs next week Monday-Friday return,nonreportable_net_change,0.0771599714783817,561,next_week_mon_fri_return
+nonreportable,weekly change in nonreportable long/OI pct vs weekly price return,nonreportable_long_oi_pct_change,-0.050433719419578964,562,
+nonreportable,weekly change in nonreportable long/OI pct vs next monday close return,nonreportable_long_oi_pct_change,-0.0338119155590784,561,next_week_monday_return
+nonreportable,weekly change in nonreportable long/OI pct vs next monday single-day return,nonreportable_long_oi_pct_change,-0.0338119155590784,561,next_week_monday_daily_return
+nonreportable,weekly change in nonreportable long/OI pct vs next tuesday close return,nonreportable_long_oi_pct_change,-0.05313883706133066,561,next_week_tuesday_return
+nonreportable,weekly change in nonreportable long/OI pct vs next tuesday single-day return,nonreportable_long_oi_pct_change,-0.047563378786741446,561,next_week_tuesday_daily_return
+nonreportable,weekly change in nonreportable long/OI pct vs next wednesday close return,nonreportable_long_oi_pct_change,-0.02500795309302002,561,next_week_wednesday_return
+nonreportable,weekly change in nonreportable long/OI pct vs next wednesday single-day return,nonreportable_long_oi_pct_change,0.06152996626488678,561,next_week_wednesday_daily_return
+nonreportable,weekly change in nonreportable long/OI pct vs next thursday close return,nonreportable_long_oi_pct_change,0.01533290851018369,561,next_week_thursday_return
+nonreportable,weekly change in nonreportable long/OI pct vs next thursday single-day return,nonreportable_long_oi_pct_change,0.09482922757479162,561,next_week_thursday_daily_return
+nonreportable,weekly change in nonreportable long/OI pct vs next friday close return,nonreportable_long_oi_pct_change,0.019362308461560535,561,next_week_friday_return
+nonreportable,weekly change in nonreportable long/OI pct vs next friday single-day return,nonreportable_long_oi_pct_change,0.0075812901689111326,561,next_week_friday_daily_return
+nonreportable,weekly change in nonreportable long/OI pct vs next week Monday-Friday return,nonreportable_long_oi_pct_change,0.0640703771990864,561,next_week_mon_fri_return
+nonreportable,weekly change in nonreportable short/OI pct vs weekly price return,nonreportable_short_oi_pct_change,-0.022083317172136803,562,
+nonreportable,weekly change in nonreportable short/OI pct vs next monday close return,nonreportable_short_oi_pct_change,-0.010670207074517256,561,next_week_monday_return
+nonreportable,weekly change in nonreportable short/OI pct vs next monday single-day return,nonreportable_short_oi_pct_change,-0.010670207074517256,561,next_week_monday_daily_return
+nonreportable,weekly change in nonreportable short/OI pct vs next tuesday close return,nonreportable_short_oi_pct_change,-0.04732824530549904,561,next_week_tuesday_return
+nonreportable,weekly change in nonreportable short/OI pct vs next tuesday single-day return,nonreportable_short_oi_pct_change,-0.08571400680804482,561,next_week_tuesday_daily_return
+nonreportable,weekly change in nonreportable short/OI pct vs next wednesday close return,nonreportable_short_oi_pct_change,-0.03710439420811621,561,next_week_wednesday_return
+nonreportable,weekly change in nonreportable short/OI pct vs next wednesday single-day return,nonreportable_short_oi_pct_change,0.016916745574151557,561,next_week_wednesday_daily_return
+nonreportable,weekly change in nonreportable short/OI pct vs next thursday close return,nonreportable_short_oi_pct_change,-0.03391812371607863,561,next_week_thursday_return
+nonreportable,weekly change in nonreportable short/OI pct vs next thursday single-day return,nonreportable_short_oi_pct_change,-0.0010330449005674196,561,next_week_thursday_daily_return
+nonreportable,weekly change in nonreportable short/OI pct vs next friday close return,nonreportable_short_oi_pct_change,-0.022048332325759416,561,next_week_friday_return
+nonreportable,weekly change in nonreportable short/OI pct vs next friday single-day return,nonreportable_short_oi_pct_change,0.024573400278450026,561,next_week_friday_daily_return
+nonreportable,weekly change in nonreportable short/OI pct vs next week Monday-Friday return,nonreportable_short_oi_pct_change,-0.018274257474818593,561,next_week_mon_fri_return
+nonreportable,nonreportable net/OI pct vs next monday close return,nonreportable_net_oi_pct,-0.051338575725589065,562,next_week_monday_return
+nonreportable,nonreportable net contracts vs next monday close return,nonreportable_net,-0.0633299506573134,562,next_week_monday_return
+nonreportable,nonreportable long/OI pct vs next monday close return,nonreportable_long_oi_pct,-0.010032705599129582,562,next_week_monday_return
+nonreportable,nonreportable short/OI pct vs next monday close return,nonreportable_short_oi_pct,0.07185528645032739,562,next_week_monday_return
+nonreportable,nonreportable net/OI pct vs next monday single-day return,nonreportable_net_oi_pct,-0.051338575725589065,562,next_week_monday_daily_return
+nonreportable,nonreportable net contracts vs next monday single-day return,nonreportable_net,-0.0633299506573134,562,next_week_monday_daily_return
+nonreportable,nonreportable long/OI pct vs next monday single-day return,nonreportable_long_oi_pct,-0.010032705599129582,562,next_week_monday_daily_return
+nonreportable,nonreportable short/OI pct vs next monday single-day return,nonreportable_short_oi_pct,0.07185528645032739,562,next_week_monday_daily_return
+nonreportable,nonreportable net/OI pct vs next tuesday close return,nonreportable_net_oi_pct,-0.05743392527534842,562,next_week_tuesday_return
+nonreportable,nonreportable net contracts vs next tuesday close return,nonreportable_net,-0.05969178775424457,562,next_week_tuesday_return
+nonreportable,nonreportable long/OI pct vs next tuesday close return,nonreportable_long_oi_pct,-0.023823710601683833,562,next_week_tuesday_return
+nonreportable,nonreportable short/OI pct vs next tuesday close return,nonreportable_short_oi_pct,0.06580074140428728,562,next_week_tuesday_return
+nonreportable,nonreportable net/OI pct vs next tuesday single-day return,nonreportable_net_oi_pct,-0.019939800930147404,562,next_week_tuesday_daily_return
+nonreportable,nonreportable net contracts vs next tuesday single-day return,nonreportable_net,0.0022728839103012583,562,next_week_tuesday_daily_return
+nonreportable,nonreportable long/OI pct vs next tuesday single-day return,nonreportable_long_oi_pct,-0.031530860579797676,562,next_week_tuesday_daily_return
+nonreportable,nonreportable short/OI pct vs next tuesday single-day return,nonreportable_short_oi_pct,-0.004081399923730099,562,next_week_tuesday_daily_return
+nonreportable,nonreportable net/OI pct vs next wednesday close return,nonreportable_net_oi_pct,-0.03433598214294885,562,next_week_wednesday_return
+nonreportable,nonreportable net contracts vs next wednesday close return,nonreportable_net,-0.04642909462331075,562,next_week_wednesday_return
+nonreportable,nonreportable long/OI pct vs next wednesday close return,nonreportable_long_oi_pct,0.006189292855167904,562,next_week_wednesday_return
+nonreportable,nonreportable short/OI pct vs next wednesday close return,nonreportable_short_oi_pct,0.06299034386487949,562,next_week_wednesday_return
+nonreportable,nonreportable net/OI pct vs next wednesday single-day return,nonreportable_net_oi_pct,0.04671518977498717,562,next_week_wednesday_daily_return
+nonreportable,nonreportable net contracts vs next wednesday single-day return,nonreportable_net,0.020778786370075488,562,next_week_wednesday_daily_return
+nonreportable,nonreportable long/OI pct vs next wednesday single-day return,nonreportable_long_oi_pct,0.0721933936302965,562,next_week_wednesday_daily_return
+nonreportable,nonreportable short/OI pct vs next wednesday single-day return,nonreportable_short_oi_pct,0.007620088812855237,562,next_week_wednesday_daily_return
+nonreportable,nonreportable net/OI pct vs next thursday close return,nonreportable_net_oi_pct,-0.06803719019735169,562,next_week_thursday_return
+nonreportable,nonreportable net contracts vs next thursday close return,nonreportable_net,-0.07192551941062025,562,next_week_thursday_return
+nonreportable,nonreportable long/OI pct vs next thursday close return,nonreportable_long_oi_pct,-0.02362130720446686,562,next_week_thursday_return
+nonreportable,nonreportable short/OI pct vs next thursday close return,nonreportable_short_oi_pct,0.08327447192352588,562,next_week_thursday_return
+nonreportable,nonreportable net/OI pct vs next thursday single-day return,nonreportable_net_oi_pct,-0.08955712169731686,562,next_week_thursday_daily_return
+nonreportable,nonreportable net contracts vs next thursday single-day return,nonreportable_net,-0.07192052653442393,562,next_week_thursday_daily_return
+nonreportable,nonreportable long/OI pct vs next thursday single-day return,nonreportable_long_oi_pct,-0.07179810838094458,562,next_week_thursday_daily_return
+nonreportable,nonreportable short/OI pct vs next thursday single-day return,nonreportable_short_oi_pct,0.06249248510180727,562,next_week_thursday_daily_return
+nonreportable,nonreportable net/OI pct vs next friday close return,nonreportable_net_oi_pct,-0.06818898290688433,562,next_week_friday_return
+nonreportable,nonreportable net contracts vs next friday close return,nonreportable_net,-0.08951037284742612,562,next_week_friday_return
+nonreportable,nonreportable long/OI pct vs next friday close return,nonreportable_long_oi_pct,-0.010315314685941115,562,next_week_friday_return
+nonreportable,nonreportable short/OI pct vs next friday close return,nonreportable_short_oi_pct,0.09892453609843015,562,next_week_friday_return
+nonreportable,nonreportable net/OI pct vs next friday single-day return,nonreportable_net_oi_pct,-0.0016684465889980386,562,next_week_friday_daily_return
+nonreportable,nonreportable net contracts vs next friday single-day return,nonreportable_net,-0.045244540052799424,562,next_week_friday_daily_return
+nonreportable,nonreportable long/OI pct vs next friday single-day return,nonreportable_long_oi_pct,0.03441346104587733,562,next_week_friday_daily_return
+nonreportable,nonreportable short/OI pct vs next friday single-day return,nonreportable_short_oi_pct,0.04255033883571766,562,next_week_friday_daily_return
+nonreportable,nonreportable net/OI pct vs next week Monday-Friday return,nonreportable_net_oi_pct,-0.03958661815248998,562,next_week_mon_fri_return
+nonreportable,nonreportable net contracts vs next week Monday-Friday return,nonreportable_net,-0.055982287767542945,562,next_week_mon_fri_return
+nonreportable,nonreportable long/OI pct vs next week Monday-Friday return,nonreportable_long_oi_pct,-0.002123719112619014,562,next_week_mon_fri_return
+nonreportable,nonreportable short/OI pct vs next week Monday-Friday return,nonreportable_short_oi_pct,0.06190384196477636,562,next_week_mon_fri_return
+nonreportable,nonreportable net/OI pct vs forward 1w price return,nonreportable_net_oi_pct,-0.05666439862258294,562,forward_return_1w
+nonreportable,nonreportable net contracts vs forward 1w price return,nonreportable_net,-0.05866308673953745,562,forward_return_1w
+nonreportable,nonreportable long/OI pct vs forward 1w price return,nonreportable_long_oi_pct,-0.02360101484827396,562,forward_return_1w
+nonreportable,nonreportable short/OI pct vs forward 1w price return,nonreportable_short_oi_pct,0.06480739563476705,562,forward_return_1w
+nonreportable,nonreportable net/OI pct vs forward 2w price return,nonreportable_net_oi_pct,-0.08343977969534938,561,forward_return_2w
+nonreportable,nonreportable net contracts vs forward 2w price return,nonreportable_net,-0.0833655503282615,561,forward_return_2w
+nonreportable,nonreportable long/OI pct vs forward 2w price return,nonreportable_long_oi_pct,-0.016428304546419685,561,forward_return_2w
+nonreportable,nonreportable short/OI pct vs forward 2w price return,nonreportable_short_oi_pct,0.11637615861690899,561,forward_return_2w
+nonreportable,nonreportable net/OI pct vs forward 3w price return,nonreportable_net_oi_pct,-0.11452807993710483,560,forward_return_3w
+nonreportable,nonreportable net contracts vs forward 3w price return,nonreportable_net,-0.11474266716136827,560,forward_return_3w
+nonreportable,nonreportable long/OI pct vs forward 3w price return,nonreportable_long_oi_pct,-0.0398509083515406,560,forward_return_3w
+nonreportable,nonreportable short/OI pct vs forward 3w price return,nonreportable_short_oi_pct,0.13956478725272498,560,forward_return_3w
+nonreportable,nonreportable net/OI pct vs forward 4w price return,nonreportable_net_oi_pct,-0.1325350619230843,559,forward_return_4w
+nonreportable,nonreportable net contracts vs forward 4w price return,nonreportable_net,-0.1296861028309129,559,forward_return_4w
+nonreportable,nonreportable long/OI pct vs forward 4w price return,nonreportable_long_oi_pct,-0.038253073772969645,559,forward_return_4w
+nonreportable,nonreportable short/OI pct vs forward 4w price return,nonreportable_short_oi_pct,0.17014896130624574,559,forward_return_4w
+nonreportable,nonreportable net/OI pct vs forward 13w price return,nonreportable_net_oi_pct,-0.11515611450862547,550,forward_return_13w
+nonreportable,nonreportable net contracts vs forward 13w price return,nonreportable_net,-0.13954978356998216,550,forward_return_13w
+nonreportable,nonreportable long/OI pct vs forward 13w price return,nonreportable_long_oi_pct,0.004119534263257419,550,forward_return_13w
+nonreportable,nonreportable short/OI pct vs forward 13w price return,nonreportable_short_oi_pct,0.18866302146217662,550,forward_return_13w
+nonreportable,nonreportable net/OI pct vs forward 26w price return,nonreportable_net_oi_pct,-0.12919921909730994,537,forward_return_26w
+nonreportable,nonreportable net contracts vs forward 26w price return,nonreportable_net,-0.16524900510904303,537,forward_return_26w
+nonreportable,nonreportable long/OI pct vs forward 26w price return,nonreportable_long_oi_pct,0.032302086077016456,537,forward_return_26w
+nonreportable,nonreportable short/OI pct vs forward 26w price return,nonreportable_short_oi_pct,0.23328737737456076,537,forward_return_26w
+nonreportable,nonreportable net/OI pct vs forward 52w price return,nonreportable_net_oi_pct,0.004536941261988107,511,forward_return_52w
+nonreportable,nonreportable net contracts vs forward 52w price return,nonreportable_net,-0.05037595598527879,511,forward_return_52w
+nonreportable,nonreportable long/OI pct vs forward 52w price return,nonreportable_long_oi_pct,0.1015026026077685,511,forward_return_52w
+nonreportable,nonreportable short/OI pct vs forward 52w price return,nonreportable_short_oi_pct,0.09140687506122692,511,forward_return_52w
