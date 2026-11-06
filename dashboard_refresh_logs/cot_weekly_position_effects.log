@@ -1,0 +1,9 @@
+/home/runner/work/cot-report/cot-report/analysis/cot_weekly_position_effects.py:101: Pandas4Warning: Series.dt.weekday is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  release_friday = out["date"] + pd.to_timedelta((4 - out["date"].dt.weekday) % 7, unit="D")
+/home/runner/work/cot-report/cot-report/analysis/cot_weekly_position_effects.py:101: Pandas4Warning: Series.dt.weekday is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  release_friday = out["date"] + pd.to_timedelta((4 - out["date"].dt.weekday) % 7, unit="D")
+/home/runner/work/cot-report/cot-report/analysis/cot_weekly_position_effects.py:101: Pandas4Warning: Series.dt.weekday is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  release_friday = out["date"] + pd.to_timedelta((4 - out["date"].dt.weekday) % 7, unit="D")
+/home/runner/work/cot-report/cot-report/analysis/cot_weekly_position_effects.py:101: Pandas4Warning: Series.dt.weekday is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  release_friday = out["date"] + pd.to_timedelta((4 - out["date"].dt.weekday) % 7, unit="D")
+Wrote analysis outputs to /home/runner/work/cot-report/cot-report/analysis/cot_position_effects_output
